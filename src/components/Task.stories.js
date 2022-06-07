@@ -4,7 +4,7 @@ import Task from './Task';
 
 export default {
   component: Task,
-  title: 'Build/Task',
+  title: 'Task',
 };
 
 const Template = args => <Task {...args} />;
